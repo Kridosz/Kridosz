@@ -71,29 +71,3 @@ successfully managed sponsorship campaigns resulting in $25,000 in college reven
 Technical and Non-Technical Associate | Pixel Tech Conclave Mumbai, India
 
 • Developed and implemented strategies to maximize the working flow of the event, achieving 75% growth in audience.
-
-**PROJECTS**
-
-Data Analysis Meat Shell Preservation 06/2023 – 07/2023
-
-• Led the data analysis framework development, managing a substantial dataset to enhance meat shell preservation 
-insights. Showcased proficiency in Python and Tableau for improved forecasting and data processing efficiency.
-
-• Contributed to meat preservation strategies, achieving a notable 15% improvement in efficiency and waste reduction, 
-demonstrating technical acumen and tangible impact on operational outcomes.
-
-Python-Driven Emotion Recognition through Librosa 05/2023 – 06/2023
-
-• Developed an emotion recognition model using Python and data processing libraries, handling a large dataset of 7,356 
-files, and achieving a 72.40% model accuracy through rigorous analysis and optimization. 
-
-• Improved emotion recognition capabilities and user experiences by extracting essential features and applying machine 
-learning techniques.
-
-Data-Driven Revenue Hunting for Hilton – University Business Case Project 04/2022 – 05/2022 
-
-• Utilized Python, Excel, SQL, and Tableau for data analysis, contributing to a 30% boost in global earnings and aiding 
-strategic decisions for a potential 42% increase in international revenue at Hilton. 
-
-• Collaborated in developing a predictive revenue model using R, resulting in a 25% improvement in forecasting 
-accuracy and supporting revenue diversification efforts for a potential 23% expansion in Hilton's international market.
