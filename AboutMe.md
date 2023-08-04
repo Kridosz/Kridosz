@@ -38,7 +38,7 @@ Graduate Student Assistant. | Student Housing and Residency. 12/2021 – 05/2023
 23% and reducing analysis time by 31%.
 • Designed and implemented a centralized SQL database for complaint tracking, leading to a significant 28% reduction in 
 housing complaints.
-• Streamlined operational efficiency, speeding up procedural turnaround times by 52%, and championed data driven 
+• Streamlined operational efficiency, speeding up procedural turnaround times by 52%, and championed data-driven 
 decision-making, sparking a 55% increase in informed management strategies.
 
 Bylde Ltd. Mumbai, India
@@ -48,7 +48,7 @@ Data Analyst Intern | Remote. 03/2021 – 05/2021
 
 • Improved data processing efficiency by 27% through Excel-based cleaning and sorting, and reduced overstock by 55% 
 using accurate R-generated sales prediction models during my internship.
-• Developed a customer preference analysis system that improved ad targeting and increased marketing campaign 
+• Developed a customer preference analysis system that improved ad targeting and increased the marketing campaign 
 success rate by 60% over three months. 
 • Created visually appealing data visualizations using Power BI, enhancing company-wide understanding of complex 
 data, and facilitating better-informed business decisions.
