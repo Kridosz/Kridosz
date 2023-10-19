@@ -1,73 +1,59 @@
-**Krish Doshi**
+# Hello, I am Krish Doshi 👋
 
-Email: krishdoshi2012@gmail.com
+Thanks for stopping by. Here's a little bit about myself...
 
-Houston, TX 
+👀 I’m interested in Big Data, Data Analysis, and Data Engineering.
 
-**SUMMARY**
+🌱 I’m currently learning Apache Airflow.
 
-Results-driven data analyst graduate with expertise in data visualization using Tableau and Power BI. Proficient in analyzing 
-large datasets with Alteryx and Excel. Skilled in statistical methods (regression, hypothesis testing) and data science languages 
-(R, Python) for data manipulation. Strong ability to pull and manipulate datasets with SQL/R/Python (NumPy, Pandas, etc.) 
-and effectively present campaign results to stakeholders in a simplified manner using PowerPoint.
+💞️ I’m looking to collaborate on exciting data-related projects.
 
-**EDUCATION**
+## What I Do
 
-California State University, Los Angeles. Los Angeles, CA
+🛠️ I work on Data Engineering Projects, specializing in building robust data pipelines, ETL processes, and data warehousing solutions.
 
-08/2021 – 05/2023
+📊 I'm passionate about Data Analysis, where I explore datasets, uncover insights, and make data-driven decisions.
 
-Master of Science in Management Information Systems (GPA: 3.7/4) 
+🌐 I'm keen on diving deep into Big Data, dealing with massive datasets, and harnessing the power of distributed computing frameworks.
 
+🌪️ I'm exploring Apache Airflow for orchestrating and automating complex data workflows.
 
+📈 I'm also delving into DBT (Data Build Tool) for transforming data in the analytics stack, enabling seamless data modeling and analytics.
 
-University of Mumbai. Mumbai, India
+## My Expertise
 
-08/2017 – 05/2020
+📈 Data Engineering: I design, develop, and optimize data pipelines, ensuring data is accessible, reliable, and scalable.
 
-Bachelor of Engineering, Computer Engineering (GPA: 3.2/4) 
+📊 Data Analysis: I perform exploratory data analysis, generate visualizations, and derive meaningful insights from data.
 
-**WORK EXPERIENCE**
+📡 Big Data: I'm exploring technologies like Hadoop, Spark, and distributed databases to tackle large-scale data challenges.
 
-California State University, Los Angeles Los Angeles, CA
+⚙️ Apache Airflow: I'm learning to use Apache Airflow for orchestrating complex data workflows, automating tasks, and scheduling jobs.
 
+🔄 DBT (Data Build Tool): I'm honing my skills in DBT to build and manage data transformations for analytics.
 
-Graduate Student Assistant. | Student Housing and Residency. 12/2021 – 05/2023
+## Let's Connect
 
-• Revolutionized data collection and analysis procedures using Python, Excel, and Tableau, boosting data accuracy by 
-23% and reducing analysis time by 31%.
-• Designed and implemented a centralized SQL database for complaint tracking, leading to a significant 28% reduction in 
-housing complaints.
-• Streamlined operational efficiency, speeding up procedural turnaround times by 52%, and championed data-driven 
-decision-making, sparking a 55% increase in informed management strategies.
+📫 You can reach me through [krishdoshi2012@gmail.com](mailto:krishdoshi2012@gmail.com).
 
-Bylde Ltd. Mumbai, India
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kd2013/).
 
+## Portfolio
 
-Data Analyst Intern | Remote. 03/2021 – 05/2021
+📂 Check out my portfolio on [Projects](https://www.datascienceportfol.io/KrishD).
 
-• Improved data processing efficiency by 27% through Excel-based cleaning and sorting, and reduced overstock by 55% 
-using accurate R-generated sales prediction models during my internship.
-• Developed a customer preference analysis system that improved ad targeting and increased the marketing campaign 
-success rate by 60% over three months. 
-• Created visually appealing data visualizations using Power BI, enhancing company-wide understanding of complex 
-data, and facilitating better-informed business decisions.
+## Skills and Tools
 
-**SKILLS**
+🛠️ Data Analysis and Visualization: Power BI, SQL, Python, MongoDB, Tableau, SAP, R
 
-• Tools: Python | R | Power BI | MySQL (PL/SQL, NoSQL) | Apache Spark | HTML | CSS | PHP | Git | Tableau | Power 
-Query | Tableau Prep | SAP Predictive Analysis | Jupyter Notebook | Alteryx | Visual Studio | Microsoft Office, Project
-& Access. 
-• Techniques: ETL Process | Data Modelling | SWOT Analysis | Machine Learning | Data Analysis | Data Warehousing | 
-Data Visualization | Statistical Data Analytics | Scrum Sprint Planning | Google Analytics | Trello.
+🔄 ETL (Extract, Transform, Load) Processes
 
-**LEADERSHIP & VOLUNTEERING**
+💡 Problem-Solving Skills
 
-Creativity Head | Student Council Mumbai, India
+💬 Effective Communication
 
-• Led and mentored a 20+ volunteer team to organize a cultural festival, attracting 10,000+ student attendees, and 
-successfully managed sponsorship campaigns resulting in $25,000 in college revenue.
+📚 Self-taught and Adaptive Learner
 
-Technical and Non-Technical Associate | Pixel Tech Conclave Mumbai, India
+📖 Research Efficiency
 
-• Developed and implemented strategies to maximize the working flow of the event, achieving 75% growth in audience.
+🗃️ Databases
